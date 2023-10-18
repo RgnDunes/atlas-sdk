@@ -1,0 +1,8 @@
+{
+  "name": "atlas-sdk-personal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RgnDunes/atlas-sdk.git",
+  "author": "RgnDunes <divyansh.singh@razorpay.com>",
+  "license": "MIT"
+}
